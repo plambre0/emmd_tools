@@ -1,0 +1,26 @@
+{
+    "id": "7551C9B0",
+    "path": "~/emmd/R/cv.R",
+    "project_path": "R/cv.R",
+    "type": "r_source",
+    "hash": "1090610685",
+    "contents": "",
+    "dirty": false,
+    "created": 1764547677734.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "25,10",
+        "scrollLine": "18"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1764552585,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1764552585369,
+    "read_only": false,
+    "read_only_alternatives": []
+}

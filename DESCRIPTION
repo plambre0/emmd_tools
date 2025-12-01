@@ -1,0 +1,19 @@
+Package: emmd
+Type: Package
+Title: Effect-Measure Modification Detection Tools
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Paolo", "Lambre",
+      email = "paololambre0@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Identify or estimate effect modifiers in high-dimensional data.
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

@@ -1,0 +1,26 @@
+{
+    "id": "17076D2E",
+    "path": "~/emmd/R/estimate_effects.R",
+    "project_path": "R/estimate_effects.R",
+    "type": "r_source",
+    "hash": "2705840829",
+    "contents": "",
+    "dirty": false,
+    "created": 1764547781716.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "128,10",
+        "scrollLine": "113"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1764552585,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1764552585497,
+    "read_only": false,
+    "read_only_alternatives": []
+}
