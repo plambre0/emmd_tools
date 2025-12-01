@@ -1,5 +1,5 @@
-This is the R package, emmd, which is designed for detection and estimation of effects modifiers for high-dimensional data where the number of variables is relatively large compared to sample size.
-Penalized Regression (LASSO) is used to test evidence for covariate interaction in respect to the exposure and then estimated again afer selection for interpretable effects estimates and adjusted p-values.
+This is, emmd, an R package I designed for the detection and estimation of effects modifiers for high-dimensional data where the number of variables is relatively large compared to sample size. This was designed with epidemiological and biological data in mind. 
+emmd identifies and estimates effect modifiers in high-dimensional data by first using LASSO-penalized regression to detect interactions between an exposure and covariates, then re-fitting generalized linear models on the selected modifiers to produce interpretable effect estimates, standard errors, and multiple-testing-adjusted p-values, with visualization of interaction effects.
 
 Sources Used for Methodology
 Tibshirani, R. (1996). Regression shrinkage and selection via the LASSO. Journal of the Royal Statistical Society: Series B, 58(1), 267–288.
