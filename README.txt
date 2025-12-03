@@ -1,6 +1,6 @@
-This is, emmd, an R package I designed for the detection and estimation of effects modifiers for high-dimensional data where the number of variables is relatively large compared to sample size. This was designed for exploratory analysis with epidemiological and biological data in mind. 
+This is, emmd, an R package I designed for the detection and estimation of effects modifiers for high-dimensional data where the number of variables is relatively large compared to sample size. This was specifically designed for exploratory analysis and with epidemiological and biological data in mind. 
 emmd identifies and estimates effect modifiers in high-dimensional data by first using LASSO-penalized regression to detect interactions between an exposure and covariates, then re-fitting generalized linear models on the selected modifiers to produce interpretable effect estimates, standard errors, and multiple-testing-adjusted p-values, with visualization of interaction effects.
-To be transparent, this exploratory method requires you to make strong assumptions about interactions in the data and should only be used for exploratory analysis and all insights should be rigorously validated.
+To be transparent, this exploratory method requires you to make strong assumptions about interactions in the data and should only be used for exploratory analysis and all insights should be rigorously validated. Currently, this is very limited and I am working to expand supported distributions.
 
 Methodology
 Tibshirani, R. (1996). Regression shrinkage and selection via the LASSO. Journal of the Royal Statistical Society: Series B, 58(1), 267–288.
